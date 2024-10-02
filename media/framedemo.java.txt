@@ -1,0 +1,14 @@
+import java.awt.*;
+class framedemo extends Frame
+{
+	
+
+	public static void main(Sring args[])
+	{
+		framedemo f1=new framedemo();
+		f1.setTitle("My frame");
+		f1.setVisible(true);
+		setSize(500,500);
+			
+	}
+}
